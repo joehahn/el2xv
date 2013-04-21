@@ -1,0 +1,5 @@
+These IDL procedures convert Keplerian orbit elements into Cartesian coordinates and 
+velocities, and back. The file test_el2xv.pro performs a few test calculations, and
+also illustrates the codes' usage. These codes also execute sucessfully in GDL (yay!),
+which is the open Gnu equivalent to IDL. To execute, start IDL or GDL and enter @test_xv2el 
+
